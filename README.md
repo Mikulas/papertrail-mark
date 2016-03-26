@@ -1,8 +1,6 @@
-Papertrail – Google Chrome extension for clickable links
-=========================
+Papertrail Mark Google Chrome
+=============================
 
-This Google Chrome extension creates clickable links in log messages.
+![Papertrail Mark Screenshot](screenshot.png?raw=true)
 
-If a log message contains `<link>` (e. g. `<https://www.google.com/>`), this URL is turned into a clickable link.
-
-It is [available in the Google Chrome Web Store](https://chrome.google.com/webstore/detail/papertrail-clickable-link/dbgmfbodfabdpflmlmipapijbmgcgjfg).
+It is [available in the Google Chrome Web Store](https://chrome.google.com/webstore/detail/papertrail-mark/lpoipbjjahejjkhefhhaeahjeakmeoeh).
